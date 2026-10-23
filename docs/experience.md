@@ -19,8 +19,8 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Principal Data Architect — V2 Solutions Pvt Ltd
+*March 2009 to Present | Mumbai, India*
 
 - [Describe your main responsibility or achievement in one sentence]
 - [Describe another key task, project, or result]
@@ -30,8 +30,30 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
+### Architect Data Solution — Apexon
+*July 2022 – March 2025 | Hyderabad, India*
+
+- [Describe your main responsibility or achievement in one sentence]
+- [Describe another key task, project, or result]
+- [Describe a tool, method, or skill you applied regularly]
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Cloud Architect - GCP & Data Engineer — HSBC Technology India
+*August 2016 – July 2022 | Hyderabad, India*
+
+- [Describe your main responsibility or achievement in one sentence]
+- [Describe another key task, project, or result]
+- [Describe a tool, method, or skill you applied regularly]
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### System Engineer — IBM India Pvt Ltd
+*August 2010 – Aug 2016 | Hyderabad, India*
 
 - [Describe your main responsibility or achievement in one sentence]
 - [Describe another key task, project, or result]
@@ -45,15 +67,10 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### Bachelor Of Engineering in Electronics & Communication Engineering
+**Visvesvaraya Technological University (VTU)** | *2007*
 
 [Optional: one sentence about your thesis, specialization, or coursework if relevant]
-
----
-
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
 
 ---
 

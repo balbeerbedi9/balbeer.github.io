@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1> Sardar Balbeer Singh</h1>
+  <p><strong> Principal Data Architect </strong></p>
+  <p><em>Architecting AI-ready data foundations | Cloud | Spark | GenAI</em></p>
 </div>
 
 ---
@@ -32,15 +32,19 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I build the data foundations that make AI possible.
+ 
+I’m a Principal Data Architect with 16+ years of experience in data engineering, cloud architecture, distributed computing, and enterprise data platforms.
+ 
+My expertise spans Apache Spark, PySpark, Python, SQL, AWS, Azure, GCP, Databricks, Snowflake, and Microsoft Fabric, with a focus on building scalable and reliable data platforms.
+ 
+My current area of interest is the evolution of AI-powered Data Engineering—using Generative AI and intelligent automation to rethink how data pipelines are designed, developed, tested, monitored, documented, and optimized.
+ 
+I believe the next generation of data platforms won't simply store and process data. They will understand data, automate engineering decisions, detect problems, recommend improvements, and provide trusted data for AI applications.
+ 
+I enjoy designing architectures that bridge traditional data engineering with emerging AI capabilities while maintaining the fundamentals that enterprises need: security, governance, scalability, reliability, and cost efficiency.
+ 
+Core expertise: Data Architecture | Data Engineering | Cloud Platforms | Apache Spark | PySpark | AWS | Azure | GCP | Databricks | Snowflake | Microsoft Fabric | Data Migration | Generative AI | AI-ready Data Platforms
 
 </div>
 
@@ -53,7 +57,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Balbeer-Singh-CV.pdf){ .md-button }
 
 
 ---
